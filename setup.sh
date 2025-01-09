@@ -137,12 +137,11 @@ show_progress 12
 sudo apt install -y flameshot
 gsettings set org.gnome.shell.keybindings show-screenshot-ui "[]"
 
-dconf load /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/ <<EOF
-[custom0]
-binding='Print'
-command='flameshot gui'
-name='flameshot'
-EOF
+gsettings set org.gnome.settings-daemon.plugins.media-keys custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']"
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ name 'flameshot'
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ command 'flameshot gui'
+gsettings set org.gnome.settings-daemon.plugins.media-keys.custom-keybinding:/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/ binding 'Print'
+
 sleep 1
 
 # Etapa 13: Instalando Gedit, dbus-launch e tema Dracula
