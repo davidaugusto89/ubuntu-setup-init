@@ -70,6 +70,7 @@ O script aplica as seguintes configurações no sistema:
 
 ```bash
 chmod +x setup.sh
+```
 
 ---
 
