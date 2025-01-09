@@ -40,6 +40,7 @@ O script foi criado para facilitar a configuração do ambiente de desenvolvimen
 | Git             | `sudo apt install -y git`                                                     |
 | Docker          | `sudo apt install -y docker.io`                                               |
 | VSCode          | `sudo apt install -y code`                                                    |
+| Insomnia        | `sudo snap install insomnia -y`                                               |
 | Node.js         | `curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -`           |
 | Flameshot       | `sudo apt install -y flameshot`                                               |
 | Oh My Zsh       | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
