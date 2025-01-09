@@ -50,21 +50,51 @@ O script foi criado para facilitar a configuração do ambiente de desenvolvimen
 | <img src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg" width="40" height="40"/> | **Flameshot** | Ferramenta de captura de tela |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40"/> | **Insomnia** | Cliente REST para testes de API |
 
+---
+
 ## 🖼️ **Configurações de Tema e Plano de Fundo**
 
 O script aplica as seguintes configurações no sistema:
 
+- **Estilo:** `Dark`
 - **Tema:** `Yaru-blue-dark`
 - **Ícones:** `Yaru-blue`
 - **Plano de Fundo:** `Northan_lights_by_mizuno.webp`
 
+<img src="https://raw.githubusercontent.com/davidaugusto89/ubuntu-setup-init/refs/heads/main/images/print_appearance.png" width="100%"/>
+
 ---
 
-## 🔧 **Atalhos Personalizados Criados**
+## 🎨 **Personalização aparência e dock**
+
+O script aplica as seguintes personalizações na aparência do sistema:
+
+- **Tamanho icone:** `24`
+- **Dock posição:** `bottom`
+
+<img src="https://raw.githubusercontent.com/davidaugusto89/ubuntu-setup-init/refs/heads/main/images/print_ubuntu_desktop.png" width="100%"/>
+
+---
+
+## 💻 **Personalização do Terminal**
+
+O script instala o zsh e algumas outras personalizações.
+
+- **Terminal:** `Zsh`
+- **Tema:** `Dracula`
+- **Estilo Zsh:** `Oh My Zsh`
+
+<img src="https://raw.githubusercontent.com/davidaugusto89/ubuntu-setup-init/refs/heads/main/images/print_zsh_terminal.png" width="100%"/>
+
+---
+
+## 🔧 **Atalhos Personalizado Criado**
 
 | Tecla        | Função           |
 |--------------|------------------|
 | `Print`      | Abre o Flameshot |
+
+<img src="https://raw.githubusercontent.com/davidaugusto89/ubuntu-setup-init/refs/heads/main/images/print_custom_shortcut.png" width="100%"/>
 
 ---
 
