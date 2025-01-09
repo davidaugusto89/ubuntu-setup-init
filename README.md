@@ -76,4 +76,4 @@ chmod +x setup.sh
 
 ## 🧑‍💻 **Autor**
 
-Feito com ❤️ por [David Augusto
+Feito com ❤️ por David Augusto
