@@ -69,10 +69,13 @@ sleep 1
 
 # Etapa 4: Instalando Node.js, pnpm e CLIs
 show_progress 4
-curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
-sudo apt install -y nodejs
-npm install -g pnpm
-pnpm add -g nve @nestjs/cli @laravel/installer
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+nvm install node
+nvm alias default node
+nvm current
+corepack enable pnpm
 sleep 1
 
 # Etapa 5: Instalando Docker e corrigindo permissões
