@@ -35,15 +35,18 @@ O script foi criado para facilitar a configuração do ambiente de desenvolvimen
 
 ## 📋 **O que o Script Instala**
 
-| Ferramenta      | Comando de Instalação                                                          |
-|-----------------|-------------------------------------------------------------------------------|
-| Git             | `sudo apt install -y git`                                                     |
-| Docker          | `sudo apt install -y docker.io`                                               |
-| VSCode          | `sudo apt install -y code`                                                    |
-| Insomnia        | `sudo snap install insomnia -y`                                               |
-| Node.js         | `curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -`           |
-| Flameshot       | `sudo apt install -y flameshot`                                               |
-| Oh My Zsh       | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
+| Ferramenta      | Descrição                    | Badge                                                                                 |
+|-----------------|------------------------------|---------------------------------------------------------------------------------------|
+| Git             | Controle de versão           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| Docker          | Containers                   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| VSCode          | Editor de código             | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+| Node.js         | Ambiente de execução JavaScript | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
+| Flameshot       | Ferramenta de captura de tela | ![Flameshot](https://img.shields.io/badge/Flameshot-800080?style=for-the-badge&logo=flameshot&logoColor=white) |
+| Oh My Zsh       | Gerenciador de temas para Zsh | ![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| Composer        | Gerenciador de dependências PHP | ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) |
+| Google Chrome   | Navegador                    | ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
+| Brave Browser   | Navegador                    | ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white) |
+| DBeaver         | Gerenciador de banco de dados | ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white) |
 
 ---
 
