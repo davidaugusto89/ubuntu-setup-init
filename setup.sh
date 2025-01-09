@@ -178,4 +178,6 @@ sleep 1
 
 # Finalizando a configuração
 show_progress 17
+powerprofilesctl set performance
+
 echo -e "\nConfiguração concluída com sucesso!"
