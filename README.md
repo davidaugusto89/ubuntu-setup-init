@@ -35,20 +35,20 @@ O script foi criado para facilitar a configuração do ambiente de desenvolvimen
 
 ## 📋 **O que o Script Instala**
 
-| Ferramenta      | Descrição                    | Badge                                                                                 |
-|-----------------|------------------------------|---------------------------------------------------------------------------------------|
-| Git             | Controle de versão           | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| Docker          | Containers                   | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| VSCode          | Editor de código             | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-| Node.js         | Ambiente de execução JavaScript | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
-| Flameshot       | Ferramenta de captura de tela | ![Flameshot](https://img.shields.io/badge/Flameshot-800080?style=for-the-badge&logo=flameshot&logoColor=white) |
-| Oh My Zsh       | Gerenciador de temas para Zsh | ![Oh My Zsh](https://img.shields.io/badge/Oh_My_Zsh-1A1A1A?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| Composer        | Gerenciador de dependências PHP | ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white) |
-| Google Chrome   | Navegador                    | ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white) |
-| Brave Browser   | Navegador                    | ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white) |
-| DBeaver         | Gerenciador de banco de dados | ![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white) |
-
----
+|  | Ferramenta      | Descrição                    |
+|--|-----------------|------------------------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> | **Git** | Controle de versão |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40"/> | **Composer** | Gerenciador de dependências PHP |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> | **Docker** | Containers |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> | **VSCode** | Editor de código |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> | **Node.js** | Ambiente de execução JavaScript |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-plain.svg" width="40" height="40"/> | **Zsh + Oh My Zsh** | Terminal personalizado |
+| <img src="https://draculatheme.com/images/hero/dracula-icon.svg" width="40" height="40"/> | **Dracula Theme** | Tema escuro para o terminal |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40" height="40"/> | **Google Chrome** | Navegador |
+| <img src="https://www.svgrepo.com/show/378778/brave.svg" width="40" height="40"/> | **Brave Browser** | Navegador |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/> | **DBeaver** | Gerenciador de banco de dados |
+| <img src="https://raw.githubusercontent.com/flameshot-org/flameshot/master/data/img/app/org.flameshot.Flameshot.svg" width="40" height="40"/> | **Flameshot** | Ferramenta de captura de tela |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" width="40" height="40"/> | **Insomnia** | Cliente REST para testes de API |
 
 ## 🖼️ **Configurações de Tema e Plano de Fundo**
 
