@@ -80,12 +80,14 @@ sleep 1
 
 # Etapa 5: Instalando Docker e corrigindo permissões
 show_progress 5
-sudo apt install -y docker.io docker-compose
+sudo apt install -y docker.io
 sudo systemctl enable docker
 sudo systemctl start docker
 sudo groupadd docker
 sudo usermod -aG docker $USER
 sudo chmod 666 /var/run/docker.sock
+sudo curl -L "https://github.com/docker/compose/releases/download/v2.22.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
 sleep 1
 
 # Etapa 6: Ajustando a ordem dos monitores
